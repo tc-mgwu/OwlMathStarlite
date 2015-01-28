@@ -60,6 +60,8 @@ img {
 	
 }
 
+
+
 .intro-section {
    
     padding-top: 120px;
@@ -71,6 +73,7 @@ img {
 .about-section {
    
     padding-top: 100px;
+	padding-bottom: 70px;
     text-align: center;
     background: #eee;
 }
