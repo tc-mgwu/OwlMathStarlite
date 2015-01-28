@@ -164,7 +164,7 @@
 		<key>children</key>
 		<array/>
 		<key>customClass</key>
-		<string></string>
+		<string>Owl</string>
 		<key>displayName</key>
 		<string>CCSprite</string>
 		<key>memberVarAssignmentName</key>
@@ -333,6 +333,8 @@
 				<array/>
 			</dict>
 		</array>
+		<key>selected</key>
+		<true/>
 		<key>seqExpanded</key>
 		<true/>
 	</dict>
