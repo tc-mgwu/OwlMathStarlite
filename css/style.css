@@ -1,0 +1,90 @@
+body {
+	font-family: 'Century Gothic', sans-serif;
+}
+
+h1 {
+	font-size: 35px;
+	color: #fff;
+}
+
+h1 span{
+	font-size: 35px;
+	color: #6A7C88;
+}
+
+h2 {
+	font-size: 25px;
+	color: #f8f8f8;
+	font-weight: 400;
+}
+
+h3 {
+	
+	font-size: 22px;
+	color: #738599;
+	font-weight: 400;
+	text-transform: uppercase;
+	
+	
+}
+
+h3 span{
+	font-size: 22px;
+	color: #ABB9C6;
+	font-weight: 100;
+	text-transform: uppercase;
+	
+	
+}
+
+p {
+	font-size: 14px;
+	color: #f8f8f8;
+}
+
+.dark {
+	font-size: 20px;
+	color: #6A7C88;
+	text-align: left;
+}
+
+img {
+	max-width: 100% ;
+	page-break-inside: avoid;  
+	vertical-align: middle;  
+	
+}
+.space {
+	height: 25px;
+	width: 100%;
+	
+}
+
+.intro-section {
+   
+    padding-top: 120px;
+	padding-bottom: 70px;
+    text-align: center;
+    background: #405A72;
+}
+
+.about-section {
+   
+    padding-top: 100px;
+    text-align: center;
+    background: #eee;
+}
+
+.services-section {
+   
+    padding-top: 100px;
+    text-align: center;
+    background: #405A72;
+}
+
+.contact-section {
+ 
+    padding-top: 100px;
+    text-align: center;
+    background: #eee;
+}
